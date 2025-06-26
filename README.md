@@ -16,5 +16,5 @@ This repository includes configuration files for:
 To use these configs:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git ~/.dotfiles
+git clone https://github.com/anixne/dots.git
 cd ~/.dotfiles
